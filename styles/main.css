@@ -110,8 +110,8 @@ footer{
 	background-image: linear-gradient(45deg,black 0%,orange 25%,white 100%);
 }
 ul{
-	line-height: 1.9;
-	margin: 0 0 1.5em 1.25em;
+	line-height: 1.5;
+	margin: 0 0 1.75em 1.25em;
 	float:left;
 }
 header nav ul ul{
