@@ -112,6 +112,7 @@ footer{
 }
 ul{
 	line-height: 1.5;
+	margin: 0 0 1.5em 1.25em;
 	float:left;
 }
 header nav ul ul{
