@@ -52,8 +52,6 @@ header{
 }
 header h3 {
 	font-size: 125%;
-	text-indent: 25px;
-	margin: 4px;
 }
 header img{
 float: left;
@@ -81,7 +79,7 @@ main h2 {
 }
 main h3 {
 	font-size: 110%;
-	margin-top: 0.5em;
+	margin: 0.8,
 }
 main p{
 	margin-bottom: 1.5em;
@@ -93,7 +91,7 @@ main{
 section{
 	margin-left:-5em;
 	float: right;
-	width:620px;
+	width:620px;s
 }
 aside{
 	float: left;
