@@ -8,6 +8,7 @@ body  {
 	border: 3px solid black;
 	box-shadow:0 7px 14px 7px;
 }
+/*to put the background*/
 html{
 	background-image: url("../images/bats.gif");
 }
@@ -22,16 +23,6 @@ a:link, a:visited {
 a:hover, a:focus { 
     color: green;
 }
- ul{
-	width: 160px;
-	float: left;
-	margin-left:8px;
-}
-aside{
-width: 160px;
-	float: left;
-	margin-left:8px;	
-}
 
 /* Header */
 header img { 
@@ -43,7 +34,7 @@ header{
 	border-bottom: 4px solid black;
 	clear:both;
 }
-
+/*to make the header light to darker*/
 header{	
     border-bottom: 2px solid black;
 	padding: 14px;
@@ -99,6 +90,7 @@ main p{
 }
 
 /* Footer */
+/*to make the footer darker to light*/
 footer{	
     border-top: 2px solid black;
 	padding: 15px;
@@ -107,6 +99,7 @@ footer{
 	background-image: -o-linear-gradient(45deg,black 0%,orange 25%,white 100%);
 	background-image: linear-gradient(45deg,black 0%,orange 25%,white 100%);
 }
+/*so that our footer does not move*/
 footer{clear:both;
 border-top: 4px solid black;
 padding-top: .7em;}
