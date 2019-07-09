@@ -63,7 +63,7 @@ margin: 8px;
 }
 h2 img{
 	float: left;
-	padding-right: 15px;
+	padding-right:5px;
 	margin: 8px;
 }
 /* Main */
@@ -101,7 +101,7 @@ aside ul{
 	width:160px;
 }
 /* Footer */
-/*to make the footer dar*/
+/*to make the footer darker*/
 footer{	
     border-top: 2px solid black;
 	padding: 15px;
