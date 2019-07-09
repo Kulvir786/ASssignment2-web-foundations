@@ -90,7 +90,7 @@ main p{
 }
 
 /* Footer */
-/*to make the footer darker to light*/
+/*to make the footer dar
 footer{	
     border-top: 2px solid black;
 	padding: 15px;
@@ -99,7 +99,6 @@ footer{
 	background-image: -o-linear-gradient(45deg,black 0%,orange 25%,white 100%);
 	background-image: linear-gradient(45deg,black 0%,orange 25%,white 100%);
 }
-/*so that our footer does not move*/
 footer{clear:both;
 border-top: 4px solid black;
 padding-top: .7em;}
