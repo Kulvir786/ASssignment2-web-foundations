@@ -51,6 +51,9 @@ header{
 }
 header h3 {
 	font-size: 125%;
+	margin: 4px;
+	text-indent:26px;
+	padding:0;
 }
 header img{
 float: left;
