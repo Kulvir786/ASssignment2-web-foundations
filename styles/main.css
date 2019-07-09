@@ -22,10 +22,15 @@ a:link, a:visited {
 a:hover, a:focus { 
     color: green;
 }
-section ul{
+ ul{
 	width: 160px;
 	float: left;
 	margin-left:8px;
+}
+aside{
+width: 160px;
+	float: left;
+	margin-left:8px;	
 }
 
 /* Header */
