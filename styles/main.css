@@ -1,0 +1,112 @@
+body  {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 800px;
+	background-color: white;
+	margin: auto;
+	padding: 0;
+	display:
+	border: 3px solid black;
+	box-shadow:0 7px 14px 7px;
+}
+html{
+	background-image: url("../images/bats.gif");
+}
+
+a {
+    font-weight: bold;
+    color: orange;
+}
+a:link, a:visited { 
+    color: orange; 
+}
+a:hover, a:focus { 
+    color: green;
+}
+section ul{
+	width: 160px;
+	float: left;
+	margin-left:8px;
+}
+
+/* Header */
+header img { 
+	float: left; 
+	padding-right: 14px;
+	margin:8px;
+} 
+header{
+	border-bottom: 4px solid black;
+	clear:both;
+}
+
+header{	
+    border-bottom: 2px solid black;
+	padding: 14px;
+	background-image: -webkit-linear-gradient(45deg,white 0%, orange 75%,black 100%);
+	background-image: -moz-linear-gradient(45deg,white 0%,orange 75%,black 100%);
+	background-image: -o-linear-gradient(45deg,white 0%,orange 100%);
+	background-image: linear-gradient(45deg,white 0%,orange 75%,black 100%);
+}
+ header h2 {
+	font-size: 230%;
+	margin: 4px;
+	text-indent: 26px;
+	padding: 0;
+	
+}
+header h3 {
+	font-size: 125%;
+	text-indent: 25px;
+	margin: 4px;
+	padding: 0;
+}
+header img{
+float: left;
+padding-right: 15px;
+margin: 8px;
+}
+h2 img{
+	float: left;
+	padding-right: 15px;
+	margin: 8px;
+}
+/* Main */
+
+main h1 { 
+	font-size: 140%;
+	margin-bottom: 0.5em;	
+}
+main h1:first-letter { 
+	font-size: 240%;
+	
+}
+main h2 {
+	font-size: 125%;
+	margin: 0.8em,0.5em 0;
+}
+main h3 {
+	font-size: 110%;
+	margin-bottom: 1.5em;
+}
+main p{
+	margin-bottom: 1.5em;
+	float: right;
+}
+
+/* Footer */
+footer{	
+    border-top: 2px solid black;
+	padding: 15px;
+	background-image: -webkit-linear-gradient(45deg,black 0%, orange 25%,white 100%);
+	background-image: -moz-linear-gradient(45deg,black 0%,orange 25%,white 100%);
+	background-image: -o-linear-gradient(45deg,black 0%,orange 25%,white 100%);
+	background-image: linear-gradient(45deg,black 0%,orange 25%,white 100%);
+}
+footer{clear:both;
+border-top: 4px solid black;
+padding-top: .7em;}
+footer p {
+	font-size: 90%;
+	text-align: center;
+}
+
