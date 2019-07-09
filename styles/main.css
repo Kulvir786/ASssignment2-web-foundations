@@ -53,8 +53,11 @@ header{
 header h3 {
 	font-size: 125%;
 	text-indent: 25px;
-	margin: 2px;
+	margin: 4px;
 	padding: 0;
+	position:absolute;
+	float: left;
+	width:160px;
 }
 header img{
 float: left;
