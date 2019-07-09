@@ -88,9 +88,20 @@ main p{
 	margin-bottom: 1.5em;
 	float: right;
 }
-
+main{
+	clear: both;
+}
+section{
+	margin-left:-5em;
+	float: right;
+	width:620px;
+}
+aside{
+	float: left;
+	width:160px;
+}
 /* Footer */
-/*to make the footer dar
+/*to make the footer dar*/
 footer{	
     border-top: 2px solid black;
 	padding: 15px;
@@ -98,6 +109,20 @@ footer{
 	background-image: -moz-linear-gradient(45deg,black 0%,orange 25%,white 100%);
 	background-image: -o-linear-gradient(45deg,black 0%,orange 25%,white 100%);
 	background-image: linear-gradient(45deg,black 0%,orange 25%,white 100%);
+}
+ul{
+	line-height: 1.5;
+	float;
+}
+header nav ul ul{
+	position: absolute;
+	top: 100%;
+	width: 140px;
+	background:white;
+	flex-flow: column;	
+}
+#nav_menu ul li{
+	float:left;
 }
 footer{clear:both;
 border-top: 4px solid black;
