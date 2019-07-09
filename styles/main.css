@@ -96,7 +96,7 @@ section{
 	float: right;
 	width:620px;
 }
-aside{
+aside ul{
 	float: left;
 	width:160px;
 }
@@ -112,7 +112,7 @@ footer{
 }
 ul{
 	line-height: 1.5;
-	float;
+	float:left;
 }
 header nav ul ul{
 	position: absolute;
